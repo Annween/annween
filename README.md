@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Annween/annween** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Orianne, a frontend developer with a passion for coding. I enjoy creating engaging and interactive web experiences using a variety of technologies. 
 
-Here are some ideas to get you started:
+Here are some of my skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Programming languages: JavaScript, PHP, SCSS, TypeScript
+- 📱 Mobile development: Ionic
+- 🖥️ Frontend technologies: React, Next.js, Bootstrap
+- 🌐 Backend technologies: Node.js, Express, Laravel (PHP)
+- 🗄️ Databases: MySQL, MongoDB
+- 📝 CMS: Wordpress (installation, theming, customization)
+
+I'm constantly learning and staying updated on emerging technologies. If you have any questions or would like to collaborate, feel free to reach out to me. 
+
+Let's create amazing things together! 🚀

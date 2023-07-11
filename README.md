@@ -1,4 +1,4 @@
-![helloworld](https://github.com/Annween/image/blob/main/final_version.png)
+![helloworld](https://github.com/Annween/image/blob/main/hello_world.png)
 
 ### Hi there 👋
 

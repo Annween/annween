@@ -11,6 +11,6 @@ Here are some of my skills:
 - 🗄️ Databases: MySQL, MongoDB
 - 📝 CMS: Wordpress (installation, theming, customization)
 
-I'm constantly learning and staying updated on emerging technologies. If you have any questions or would like to collaborate, feel free to reach out to me. 
+I'm constantly learning and staying updated on emerging technologies. If you have any questions or would like to collaborate, feel free to reach out to me at oriannebrabury@gmail.com.
 
 Let's create amazing things together! 🚀
